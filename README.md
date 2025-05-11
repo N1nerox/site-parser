@@ -16,7 +16,7 @@ A parser that collects ads from [otomoto.pl](https://otomoto.pl) by filters:
 pip install -r requirements.txt
 ```
 
-    2. Launch:
+2. Launch:
 
 ```bash
 python main.py
